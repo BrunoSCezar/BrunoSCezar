@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoSCezar
 - 👀 I’m interested in Front-End, Web, HTML, CSS, Java, DAX
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning SQL Server
+- 💞️ I’m looking to collaborate on first Project
 - 📫 How to reach me on Linkedin, Git
 
 <!---
